@@ -1,0 +1,4 @@
+# pandas-challenge
+To summarize the analysis, it seems Charter school type has a better overall passing rate compared to the District school type. The reasoning behind this is because the top 5 overall highest performing schools all belong to the Charter school type.
+Teachers at Schools with less students are able to spend more time focusing on each of their students as they have smaller class sizes. Schools with more students do end up having a higher budget because of the amount of students, but this does not correalte with the overall
+passing rate as there are too many students to focus on for the teachers, thus why the bottom 5 lowest performing schools are from the District school type. They may have a higher budget but becasue of the amount of students they are unable to teach them as efficiently as the Charter school type.  
